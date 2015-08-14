@@ -1,0 +1,11 @@
+This is the rad1o_id-write-a-block package meant as a guide to building
+out-of-tree packages. To use the rad1o_id blocks, the Python namespaces
+is in 'rad1o_id', which is imported as:
+
+    import rad1o_id
+
+See the Doxygen documentation for details about the blocks available
+in this package. A quick listing of the details can be found in Python
+after importing by using:
+
+    help(rad1o_id)

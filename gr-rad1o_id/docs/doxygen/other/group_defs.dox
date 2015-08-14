@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio RAD1O_ID C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the RAD1O_ID GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+
