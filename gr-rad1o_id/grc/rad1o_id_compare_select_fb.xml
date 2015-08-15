@@ -1,0 +1,16 @@
+<block>
+  <name>Compare select fb</name>
+  <key>rad1o_id_compare_select_fb</key>
+  <category>RAD1O_ID</category>
+  <import>import rad1o_id</import>
+  <make>rad1o_id.compare_select_fb()</make>
+  <sink>
+    <name>in</name>
+    <type>float</type>
+    <nports>2</nports>
+  </sink>
+  <source>
+    <name>out</name>
+    <type>byte</type>
+  </source>
+</block>

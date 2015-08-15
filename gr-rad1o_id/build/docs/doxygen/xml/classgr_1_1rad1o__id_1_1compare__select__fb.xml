@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="classgr_1_1rad1o__id_1_1compare__select__fb" kind="class" language="C++" prot="public">
+    <compoundname>gr::rad1o_id::compare_select_fb</compoundname>
+    <basecompoundref prot="public" virt="virtual">sync_block</basecompoundref>
+    <derivedcompoundref refid="classgr_1_1rad1o__id_1_1compare__select__fb__impl" prot="public" virt="non-virtual">gr::rad1o_id::compare_select_fb_impl</derivedcompoundref>
+    <includes refid="compare__select__fb_8h" local="no">compare_select_fb.h</includes>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="classgr_1_1rad1o__id_1_1compare__select__fb_1ad4189aebab6b987e52f224d1375a7c55" prot="public" static="no">
+        <type>boost::shared_ptr&lt; <ref refid="classgr_1_1rad1o__id_1_1compare__select__fb" kindref="compound">compare_select_fb</ref> &gt;</type>
+        <definition>typedef boost::shared_ptr&lt;compare_select_fb&gt; gr::rad1o_id::compare_select_fb::sptr</definition>
+        <argsstring></argsstring>
+        <name>sptr</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include/rad1o_id/compare_select_fb.h" line="39" column="1" bodyfile="/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include/rad1o_id/compare_select_fb.h" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classgr_1_1rad1o__id_1_1compare__select__fb_1ad88f7d5c12ee7a3c4373c817afa4ac21" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="classgr_1_1rad1o__id_1_1compare__select__fb_1ad4189aebab6b987e52f224d1375a7c55" kindref="member">sptr</ref></type>
+        <definition>static sptr gr::rad1o_id::compare_select_fb::make</definition>
+        <argsstring>()</argsstring>
+        <name>make</name>
+        <briefdescription>
+<para>Return a shared_ptr to a new instance of <ref refid="classgr_1_1rad1o__id_1_1compare__select__fb" kindref="compound">rad1o_id::compare_select_fb</ref>. </para>        </briefdescription>
+        <detaileddescription>
+<para>To avoid accidental use of raw pointers, <ref refid="classgr_1_1rad1o__id_1_1compare__select__fb" kindref="compound">rad1o_id::compare_select_fb</ref>&apos;s constructor is in a private implementation class. <ref refid="classgr_1_1rad1o__id_1_1compare__select__fb_1ad88f7d5c12ee7a3c4373c817afa4ac21" kindref="member">rad1o_id::compare_select_fb::make</ref> is the public interface for creating new instances. </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include/rad1o_id/compare_select_fb.h" line="49" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>&lt;+description of block+&gt; </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="6">
+        <label>gr::rad1o_id::compare_select_fb</label>
+        <link refid="classgr_1_1rad1o__id_1_1compare__select__fb"/>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>gr::sync_block</label>
+      </node>
+      <node id="8">
+        <label>gr::rad1o_id::compare_select_fb_impl</label>
+        <link refid="classgr_1_1rad1o__id_1_1compare__select__fb__impl"/>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="9">
+        <label>gr::rad1o_id::compare_select_fb</label>
+        <link refid="classgr_1_1rad1o__id_1_1compare__select__fb"/>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>gr::sync_block</label>
+      </node>
+    </collaborationgraph>
+    <location file="/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include/rad1o_id/compare_select_fb.h" line="37" column="1" bodyfile="/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include/rad1o_id/compare_select_fb.h" bodystart="36" bodyend="50"/>
+    <listofallmembers>
+      <member refid="classgr_1_1rad1o__id_1_1compare__select__fb_1ad88f7d5c12ee7a3c4373c817afa4ac21" prot="public" virt="non-virtual"><scope>gr::rad1o_id::compare_select_fb</scope><name>make</name></member>
+      <member refid="classgr_1_1rad1o__id_1_1compare__select__fb_1ad4189aebab6b987e52f224d1375a7c55" prot="public" virt="non-virtual"><scope>gr::rad1o_id::compare_select_fb</scope><name>sptr</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

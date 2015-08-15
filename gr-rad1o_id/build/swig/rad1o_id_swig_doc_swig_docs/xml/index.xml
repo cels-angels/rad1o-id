@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.9.1">
+  <compound refid="classgr_1_1rad1o__id_1_1compare__select__fb" kind="class"><name>gr::rad1o_id::compare_select_fb</name>
+    <member refid="classgr_1_1rad1o__id_1_1compare__select__fb_1ad4189aebab6b987e52f224d1375a7c55" kind="typedef"><name>sptr</name></member>
+    <member refid="classgr_1_1rad1o__id_1_1compare__select__fb_1ad88f7d5c12ee7a3c4373c817afa4ac21" kind="function"><name>make</name></member>
+  </compound>
+  <compound refid="namespacegr" kind="namespace"><name>gr</name>
+  </compound>
+  <compound refid="namespacegr_1_1rad1o__id" kind="namespace"><name>gr::rad1o_id</name>
+  </compound>
+  <compound refid="namespacestd" kind="namespace"><name>std</name>
+  </compound>
+  <compound refid="api_8h" kind="file"><name>api.h</name>
+    <member refid="api_8h_1ad3ddb2986cb46201568bea034171c027" kind="define"><name>RAD1O_ID_API</name></member>
+  </compound>
+  <compound refid="compare__select__fb_8h" kind="file"><name>compare_select_fb.h</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include</name>
+  </compound>
+  <compound refid="dir_764fe18779fd2b7e287ff6a4b9976f82" kind="dir"><name>/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include/rad1o_id</name>
+  </compound>
+</doxygenindex>

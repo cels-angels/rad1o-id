@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="dir_d44c64559bbebec7f509842c48db8b23" kind="dir">
+    <compoundname>/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include</compoundname>
+    <innerdir refid="dir_764fe18779fd2b7e287ff6a4b9976f82">/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include/rad1o_id</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include/"/>
+  </compounddef>
+</doxygen>

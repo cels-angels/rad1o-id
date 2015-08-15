@@ -22,5 +22,5 @@
 ########################################################################
 install(FILES
     api.h
-    DESTINATION include/rad1o_id
+    compare_select_fb.h DESTINATION include/rad1o_id
 )

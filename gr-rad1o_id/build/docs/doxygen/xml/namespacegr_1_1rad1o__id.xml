@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="namespacegr_1_1rad1o__id" kind="namespace" language="C++">
+    <compoundname>gr::rad1o_id</compoundname>
+    <innerclass refid="classgr_1_1rad1o__id_1_1compare__select__fb" prot="public">gr::rad1o_id::compare_select_fb</innerclass>
+    <innerclass refid="classgr_1_1rad1o__id_1_1compare__select__fb__impl" prot="public">gr::rad1o_id::compare_select_fb_impl</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/jkraemer/Documents/src/rad1o-id/gr-rad1o_id/include/rad1o_id/compare_select_fb.h" line="29" column="1"/>
+  </compounddef>
+</doxygen>

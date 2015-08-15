@@ -24,9 +24,8 @@ include(GrPlatform) #define LIB_SUFFIX
 
 include_directories(${Boost_INCLUDE_DIR})
 link_directories(${Boost_LIBRARY_DIRS})
-
 list(APPEND rad1o_id_sources
-)
+    compare_select_fb_impl.cc )
 
 set(rad1o_id_sources "${rad1o_id_sources}" PARENT_SCOPE)
 if(NOT rad1o_id_sources)
